@@ -1,0 +1,1 @@
+Since this repo is me following along with Udemy's copyrighted material (from this excellent course: https://www.udemy.com/react-the-complete-guide-incl-redux), contact them with any questions about usage.
